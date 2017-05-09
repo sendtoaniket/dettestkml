@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Victorian Government regional areas</name>
+    <description/>
+    <NetworkLink>
+      <name>Victorian Government regional areas</name>
+      <Link>
+        <href><![CDATA[http://www.google.com/maps/d/kml?forcekml=1&mid=1bokJL5u1xW-OnMCQcWa7lcMLkKU]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
