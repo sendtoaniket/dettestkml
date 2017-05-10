@@ -8,7 +8,7 @@
         <color>ffa95b3f</color>
         <scale>1.1</scale>
         <Icon>
-          <href>https://github.com/sendtoaniket/dettestkml/raw/master/pin-black.png</href>
+          <href>https://github.com/sendtoaniket/dettestkml/raw/master/regional-office-icon.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -23,7 +23,7 @@
         <color>ffa95b3f</color>
         <scale>1.1</scale>
         <Icon>
-          <href>https://github.com/sendtoaniket/dettestkml/raw/master/pin-black.png</href>
+          <href>https://github.com/sendtoaniket/dettestkml/raw/master/regional-office-icon.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -48,7 +48,7 @@
         <color>fff08641</color>
         <scale>1.1</scale>
         <Icon>
-          <href>https://github.com/sendtoaniket/dettestkml/raw/master/pin-black.png</href>
+          <href>https://github.com/sendtoaniket/dettestkml/raw/master/regional-office-icon.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -60,7 +60,7 @@
         <color>fff08641</color>
         <scale>1.1</scale>
         <Icon>
-          <href>https://github.com/sendtoaniket/dettestkml/raw/master/pin-black.png</href>
+          <href>https://github.com/sendtoaniket/dettestkml/raw/master/regional-office-icon.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -82,7 +82,7 @@
         <color>fff08641</color>
         <scale>1.1</scale>
         <Icon>
-          <href>https://github.com/sendtoaniket/dettestkml/raw/master/pin-black.png</href>
+          <href>https://github.com/sendtoaniket/dettestkml/raw/master/regional-office-icon.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -97,7 +97,7 @@
         <color>fff08641</color>
         <scale>1.1</scale>
         <Icon>
-          <href>https://github.com/sendtoaniket/dettestkml/raw/master/pin-black.png</href>
+          <href>https://github.com/sendtoaniket/dettestkml/raw/master/regional-office-icon.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
@@ -121,7 +121,7 @@
       <name>Regional Office locations</name>
       <Placemark>
         <name>Mildura  Office</name>
-        <description><![CDATA[91 Pine Avenue<br>MILDURA 3500]]></description>
+        <description><![CDATA[91 Pine Avenue, MILDURA, VIC 3500<br><b>Area: </b>Mallee<br><b>Region: </b>North Western]]></description>
         <styleUrl>#icon-962-4186F0</styleUrl>
         <Point>
           <coordinates>
